@@ -1,5 +1,5 @@
 EVIDENCE: Replicate five app
-https://github.com/ijerm179/jeremy_ballentine_todo.gi
+https://github.com/ijerm179/jeremy_ballentine_todo.git
 Environment
 - OS: Microsoft Windows 10 Home, Version 10.0.19045 N/A Build 19045
 - IDE: Visual Studio Code
